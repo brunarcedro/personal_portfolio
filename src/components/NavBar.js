@@ -56,7 +56,7 @@ export const NavBar = () => {
              
               <button className="vvd">
                 <a 
-                  href="https://www.linkedin.com/brunarcedro" 
+                  href="https://www.linkedin.com/in/brunarcedro/" 
                   target="_blank" 
                   style={{ textDecoration: 'none', color: 'inherit' }}
                 >
