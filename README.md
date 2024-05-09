@@ -1,34 +1,36 @@
-# Personal Portfolio Website in React
+# Frontend Fusion #1
 
+Personal Portfolio Website
+
+[View the project in your browser](https://personal-portfolio-ochre-five.vercel.app)
+
+## Objective
+Create a personal presentation website featuring a header, footer, and a content section, showcasing my skills and interests. 
+
+## Technologies
 This project was bootstrapped with react
 
-Built using:
+- `React`
+- `React-bootstrap`
+- `Animate.css`
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+## Running the Project
 
-In the /personal-portfolio, you can run:
+To run the project in your local environment, follow these steps:
 
-### `npm start`
+*Dependencies: Node.js, Git, Expo Go, Android Emulator (Android Studio)*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository to your local machine.
+2. Run `npm install` in the project directory to install the required dependencies.
+3. Run `npm i` to get the node_modules.
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+## Preview
 
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-
+<h1 align="center">
+  <img width="100%" alt="Banner" title="App" src=".github/cover.png" />
+</h1>
