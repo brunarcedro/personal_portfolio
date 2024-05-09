@@ -18,8 +18,6 @@ This project was bootstrapped with react
 
 To run the project in your local environment, follow these steps:
 
-*Dependencies: Node.js, Git, Expo Go, Android Emulator (Android Studio)*
-
 1. Clone the repository to your local machine.
 2. Run `npm install` in the project directory to install the required dependencies.
 3. Run `npm i` to get the node_modules.
