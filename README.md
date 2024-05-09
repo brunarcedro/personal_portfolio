@@ -8,7 +8,6 @@ Personal Portfolio Website
 Create a personal presentation website featuring a header, footer, and a content section, showcasing my skills and interests. 
 
 ## 📱 Technologies
-This project was bootstrapped with react
 
 - `React`
 - `React-bootstrap`
