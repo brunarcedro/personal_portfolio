@@ -1,20 +1,20 @@
-# Frontend Fusion #1
+#  #1 Frontend Fusion ⚡
 
 Personal Portfolio Website
 
 [View the project in your browser](https://personal-portfolio-ochre-five.vercel.app)
 
-## Objective
+## 🎯 Objective
 Create a personal presentation website featuring a header, footer, and a content section, showcasing my skills and interests. 
 
-## Technologies
+## 📱 Technologies
 This project was bootstrapped with react
 
 - `React`
 - `React-bootstrap`
 - `Animate.css`
 
-## Running the Project
+## 🚦 Running the Project
 
 To run the project in your local environment, follow these steps:
 
